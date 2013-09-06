@@ -1,0 +1,20 @@
+// cuenta de supermercado.cpp : Defines the entry point for the console application.
+//cuenta de supermercado
+
+#include "stdafx.h"
+#include "iostream"
+#include "conio.h"
+
+using namespace std;
+void main();
+
+{ fload {precio {precio }cant1,cant2,cant3;
+
+ cout << "ingresar precio1";
+ cin  << precio1;
+ s=precio*cant1+precio2*cant2+precio*cant3
+ count<<" el total es:"<<s;
+ getch()
+
+
+}
